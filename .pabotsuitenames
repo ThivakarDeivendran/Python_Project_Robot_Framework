@@ -1,0 +1,6 @@
+datasources:7bdd663176dd23e63708e1a53be74acbc1fbec14
+commandlineoptions:665d49d5ea30ca8bb809a70f58cde8ad389986dc
+suitesfrom:no-suites-from-option
+file:24dcf0e9f3df33ac1507a6c4979f24f661f3706d
+--suite Suites.InstagramLoginTest
+--suite Suites.SwagLabLoginTest

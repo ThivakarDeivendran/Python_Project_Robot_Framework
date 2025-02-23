@@ -10,7 +10,7 @@ Launch Browser
         Maximize Browser Window
 
 TitleMethod
-       [RETURN]   Get Title
+       return      Get Title
 
 InputTextMethod
        [Arguments]      ${element}      ${value}
